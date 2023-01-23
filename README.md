@@ -5,6 +5,14 @@ This project utilizes the Federal Reserve Economic Data (FRED) API and Python's 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+## Screenshots
+
+![Demo Screenshot]![RESULTS](https://user-images.githubusercontent.com/114156392/214109780-125a2c7a-901a-4e9f-8535-86a6a37e5c49.png)
+![RESULTS](https://user-images.githubusercontent.com/114156392/214109882-b296049e-9294-4737-aebc-a64fdec4c491.png)
+![RESULTS](https://user-images.githubusercontent.com/114156392/214109938-3f0eb08d-d396-455a-8f84-0a8409dcb6eb.png)
+![RESULTS](https://user-images.githubusercontent.com/114156392/214109952-29265959-8cdb-4640-8b80-02fe95f2052a.png)
+
+
 ### Prerequisites
 
 - A FRED API key, which can be obtained [here](https://fred.stlouisfed.org/account/register)
